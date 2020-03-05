@@ -1,8 +1,10 @@
+// Denys Klimenkov
+// MY9
 package classwork;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Assigment2 {
 
     public static void main(String[] args) throws Exception {
 
